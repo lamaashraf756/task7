@@ -169,7 +169,7 @@ void main() {
 
   print("Balance: ${account.balance}");
 
-
+\\ max and kitty are my dog and cat btw
   Dog dog = Dog("Max");
   Cat cat = Cat("Kitty");
 
